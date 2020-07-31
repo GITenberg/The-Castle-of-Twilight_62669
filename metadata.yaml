@@ -1,0 +1,48 @@
+_repo: The-Castle-of-Twilight_62669
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Weber-Ditzler, Charlotte
+    aliases:
+    - Ditzler, Charlotte Weber
+    - Weber, Ch.
+    - Weber, Charlotte
+    - Weber-Ditzler, Ch.
+    - Ditzler, Ch. W.
+    birthdate: 1877
+    deathdate: 1958
+    gutenberg_agent_id: '36198'
+    url: http://www.gutenberg.org/2009/agents/36198
+  - agent_name: Harlow, Mabel
+    gutenberg_agent_id: '52075'
+    url: http://www.gutenberg.org/2009/agents/52075
+creator:
+  author:
+    agent_name: Potter, Margaret Horton
+    aliases:
+    - Black, Margaret Horton
+    - Williams, Robert Dolly
+    birthdate: 1881
+    deathdate: 1911
+    gutenberg_agent_id: '25023'
+    url: http://www.gutenberg.org/2009/agents/25023
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Horton_Potter
+description: ''
+gutenberg_issued: '2020-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62669'
+  lccn: 03023892
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Brittany (France) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'France -- History -- Medieval period, 987-1515 -- Fiction'
+- GITenberg
+title: The Castle of Twilight
+url: http://www.gutenberg.org/ebooks/62669
