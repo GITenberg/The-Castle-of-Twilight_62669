@@ -16,6 +16,9 @@ contributor:
   - agent_name: Harlow, Mabel
     gutenberg_agent_id: '52075'
     url: http://www.gutenberg.org/2009/agents/52075
+covers:
+- cover_type: archival
+  image_path: 62669-h/images/cover.jpg
 creator:
   author:
     agent_name: Potter, Margaret Horton
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25023
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Horton_Potter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62669#The-Castle-of-Twilight
 gutenberg_issued: '2020-07-17'
 gutenberg_type: Text
 identifiers:
